@@ -9,11 +9,15 @@ export class QuantitySelector extends React.Component {
     }
 
     increment = () => {
-        this.setState({currentAmount: this.state.currentAmount + 1});
+        this.setState((state) => {
+            return {currentAmount: state.currentAmount + 1}
+        });
     };
 
     decrement = () => {
-        this.setState({currentAmount: this.state.currentAmount - 1});
+        this.setState((state) => {
+            return {currentAmount: state.currentAmount - 1}
+        });
     };
 
     render() {
