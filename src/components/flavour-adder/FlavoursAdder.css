@@ -1,0 +1,5 @@
+.flavour-adder {
+    border: solid 0.1em white; /* TBD, I chose white for default black skin. */
+    border-radius: 4em;
+    padding: 0.7em;
+}
