@@ -22,11 +22,11 @@ export class QuantitySelector extends React.Component {
 
     render() {
         return (
-            <div className="quantity-selector">
+            <span className="quantity-selector">
                 <button onClick={this.increment}>+</button>
                 <label>{this.state.currentAmount}</label>
                 <button onClick={this.decrement}>-</button>
-            </div>
+            </span>
         );
     }
 
