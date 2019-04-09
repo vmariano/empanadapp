@@ -1,0 +1,7 @@
+.quantity-selector button {
+    border-radius: 100%;
+}
+
+.quantity-selector label {
+    margin: 1em;
+}
