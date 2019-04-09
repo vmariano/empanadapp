@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Matambrito",
+    "description": "Matambre de ternera asado a la pizza"
+  },
+  {
+    "name": "Bondiolita",
+    "description": "Bondiola de cerdo ahumada + salsa barbacoa"
+  },
+  {
+    "name": "Yopo",
+    "description": "Pollo asado + crema de curry + parmesano"
+  },
+  {
+    "name": "Calabacita",
+    "description": "Calabaza y choclo asado + muzzarella + albahaca"
+  },
+  {
+    "name": "Uma",
+    "description": "Choclo asado + wok de vegetales + 4 quesos"
+  },
+  {
+    "name": "Langosto",
+    "description": "Langostinos saltedos en crema + parmesano + muzzarella"
+  },
+  {
+    "name": "Es tofa",
+    "description": "Carne de ternera estofada cortada a cuchillo."
+  },
+  {
+    "name": "Tofa de chilli",
+    "description": "Carne de ternera estofada cortada a cuchillo + picante."
+  },
+  {
+    "name": "Jamone",
+    "description": "Jamón natural + muzzarella"
+  },
+  {
+    "name": " Chipola",
+    "description": "Cebollas caramelizadas + muzzarella"
+  },
+  {
+    "name": "Roqueee",
+    "description": "Muzzarella + jamón + queso azul"
+  },
+  {
+    "name": "Tuna",
+    "description": "Souffle de atun + Crema Regianito"
+  },
+  {
+    "name": "Mediterránea",
+    "description": "Tomate + albahaca +muzzarella + ajo y oliva + parmesano."
+  },
+  {
+    "name": "Chorizo",
+    "description": "Chorizo Colorazo ahumado + muzzarella"
+  },
+  {
+    "name": "Es pina",
+    "description": "Espinaca al natural + salsa bechamel + muzzarella"
+  },
+  {
+    "name": "Champi",
+    "description": "Champignones salteados con echalote + salsa de queso azul y provolone + espinacas a la crema."
+  },
+  {
+    "name": "Mostachole",
+    "description": "Panceta ahumada en salsa oporto + zanahorias glaseadas con miel y mostaza + queso gouda y muzza."
+  },
+  {
+    "name": "Provo",
+    "description": "Queso provoleta asado sobre fresca rúcula y chutney de durazno y manzanas."
+  },
+  {
+    "name": "Corderoy",
+    "description": "Cordero patagónico braseado + cremoso de batata."
+  },
+  {
+    "name": "Titii",
+    "description": "Panceta ahumada, pollo, BBQ, crema cheddar, huevo poche."
+  }
+]
